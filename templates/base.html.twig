@@ -18,13 +18,10 @@
 		{% endblock %}
 	</head>
 	<body>
-		{% block body %}
-
-			{% block header %}
-				{% include 'partials/_header.html.twig' %}
-			{% endblock %}
-
+		{% block header %}
+			{% include 'partials/_header.html.twig' %}
 		{% endblock %}
+		{% block body %}{% endblock %}
 		<!--Fin du body-->
 
 		<!--Inclure Popper.js si je ne prévois pas de créer des listes déroulantes, des popovers ou des info-bulles-->

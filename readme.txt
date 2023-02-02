@@ -13,3 +13,14 @@ Trello
 
 ___ Faire des commentaires propres ___
 ctrl+shift+i 
+
+__ knp_paginator __
+config/knp_paginator.yaml
+Github: https://github.com/KnpLabs/KnpPaginatorBundle
+1h35 : https://www.youtube.com/watch?v=3K6oBiQK8aA&list=PLUiuGjup8Vg5r8wu5gpFFdftUMyEzopwi&index=11&ab_channel=D%C3%A9veloppeurMuscl%C3%A9
+
+__ technique approfondi __
+a) les ternaires en Twig
+vidéo à 1h43
+
+__ EntityManagerInterface __
